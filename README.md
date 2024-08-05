@@ -1,4 +1,4 @@
-# Airline_data_analysis
+# Airline data analysis
 In this project, my primary focus is to analyze an airline dataset. I began by creating a dashboard to provide an overview of the data. Following this, I conducted a detailed data analysis in Jupyter Notebook based on the given problem statement. Finally, I compiled the findings into a comprehensive report.
 
 ## Software  Used
